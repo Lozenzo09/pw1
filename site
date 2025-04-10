@@ -38,11 +38,11 @@
     
     <tr>
       <td width="50%" align="center">
-        <img src="image.png" alt="Teclas" width="200"><br>
+        <img src="teclas.jpeg" alt="Teclas" width="200"><br>
         <font face="Arial" size="3">Teclas</font>
       </td>
       <td width="50%" align="center">
-        <img src="cordas.webp" alt="Cordas" width="200"><br>
+        <img src="cordas.jpeg" alt="Cordas" width="200"><br>
         <font face="Arial" size="3">Cordas</font>
       </td>
       
@@ -53,11 +53,11 @@
     </tr>
     <tr>
         <td width="50%" align="center">
-          <img src="sopro.avif" alt="Sopro" width="200"><br>
+          <img src="sopro.jpeg" alt="Sopro" width="200"><br>
           <font face="Arial" size="3">Sopro</font>
         </td>
         <td width="50%" align="center">
-          <img src="percussao.avif" alt="Percussão" width="200"><br>
+          <img src="percussao.jpeg" alt="Percussão" width="200"><br>
           <font face="Arial" size="3">Percussão</font>
         </td>
         
