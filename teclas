@@ -18,10 +18,10 @@
             <tr bgcolor="#977138">
                 <td colspan="3" align="center"> 
         <font face="Arial" aling=" center " size="4">
-          <a href="#" style="text-decoration:none;"><font color="#ffffff">Teclas</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#" style="text-decoration:none;"><font color="#ffffff">Cordas</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#" style="text-decoration:none;"><font color="#ffffff">Sopro</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#" style="text-decoration:none;"><font color="#ffffff">Percussão</font></a>
+          <a href="teclas.html" style="text-decoration:none;"><font color="#ffffff">Teclas</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="cordas.html" style="text-decoration:none;"><font color="#ffffff">Cordas</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="sopro.html" style="text-decoration:none;"><font color="#ffffff">Sopro</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="percussao.html" style="text-decoration:none;"><font color="#ffffff">Percussão</font></a>
         </font>
         <br><br>
         
@@ -37,13 +37,17 @@
     <!-- Produtos -->
     
     <tr>
-      <td width="50%" align="center">
-        <img src="image.png" alt="Teclas" width="200"><br>
-        <font face="Arial" size="3">Teclas</font>
+      <td width="33%" align="center">
+        <img src="arranjador.png" alt="Teclas" width="200"><br>
+        <font face="Arial" size="3">Arranjador</font>
       </td>
-      <td width="50%" align="center">
-        <img src="cordas.webp" alt="Cordas" width="200"><br>
-        <font face="Arial" size="3">Cordas</font>
+      <td width="33%" align="center">
+        <img src="pia.png" alt="Cordas" width="200"><br>
+        <font face="Arial" size="3">Piaggero</font>
+      </td>
+      <td width="33%" align="center">
+        <img src="pianica.png" alt="Teclas" width="200"><br>
+        <font face="Arial" size="3">Arranjador</font>
       </td>
       
       </td>
@@ -52,14 +56,18 @@
         <td  height="80"></td>
     </tr>
     <tr>
-        <td width="50%" align="center">
-          <img src="sopro.avif" alt="Sopro" width="200"><br>
-          <font face="Arial" size="3">Sopro</font>
-        </td>
-        <td width="50%" align="center">
-          <img src="percussao.avif" alt="Percussão" width="200"><br>
-          <font face="Arial" size="3">Percussão</font>
-        </td>
+      <td width="33%" align="center">
+        <img src="cauda.png" alt="Teclas" width="200"><br>
+        <font face="Arial" size="3">Arranjador</font>
+      </td>
+      <td width="33%" align="center">
+        <img src="vertical.png" alt="Cordas" width="200"><br>
+        <font face="Arial" size="3">Piaggero</font>
+      </td>
+      <td width="33%" align="center">
+        <img src="digital.png" alt="Teclas" width="200"><br>
+        <font face="Arial" size="3">Arranjador</font>
+      </td>
         
         </td>
       </tr>
