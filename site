@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title> Site </title>
+</head>
+<body>
+
+  <!-- Tabela principal -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+    <!-- Cabeçalho -->
+    
+        <br>
+        <font size="5" face="Irish Grover">
+            Sondin <br><br>
+
+            <tr bgcolor="#977138">
+                <td colspan="3" align="center"> 
+        <font face="Arial" aling=" center " size="4">
+          <a href="teclas.html" style="text-decoration:none;"><font color="#ffffff">Teclas</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="cordas.html" style="text-decoration:none;"><font color="#ffffff">Cordas</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="sopro.html" style="text-decoration:none;"><font color="#ffffff">Sopro</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="percussao.html" style="text-decoration:none;"><font color="#ffffff">Percussão</font></a>
+        </font>
+        <br><br>
+        
+      </td>
+    </tr>
+    
+
+    <!-- Espaçamento -->
+    <tr>
+        <td  height="20"><b>&nbsp;&nbsp;&nbsp;home</b></td>
+    </tr>
+
+    <!-- Produtos -->
+    
+    <tr>
+      <td width="50%" align="center">
+        <img src="image.png" alt="Teclas" width="200"><br>
+        <font face="Arial" size="3">Teclas</font>
+      </td>
+      <td width="50%" align="center">
+        <img src="cordas.webp" alt="Cordas" width="200"><br>
+        <font face="Arial" size="3">Cordas</font>
+      </td>
+      
+      </td>
+    </tr>
+    <tr>
+        <td  height="80"></td>
+    </tr>
+    <tr>
+        <td width="50%" align="center">
+          <img src="sopro.avif" alt="Sopro" width="200"><br>
+          <font face="Arial" size="3">Sopro</font>
+        </td>
+        <td width="50%" align="center">
+          <img src="percussao.avif" alt="Percussão" width="200"><br>
+          <font face="Arial" size="3">Percussão</font>
+        </td>
+        
+        </td>
+      </tr>
+    <!-- Espaçamento -->
+    <tr><td colspan="3" height="30"></td></tr>
+
+    <!-- Rodapé -->
+    <tr bgcolor="#000000">
+      <td colspan="3" align="center">
+        <font face="Arial" size="3" color="white">
+          <br>&copy; 2025 Sondin <br><br>
+        </font>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>
